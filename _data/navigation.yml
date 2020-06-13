@@ -2,13 +2,13 @@
 main:
   #- title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Projects"
-     url: /projects
-   - title: "Publications"
-     url: /publications
+   - title: "Home"
+     url: /
+   - title: "Resources"
+     url: /
   # - title: "Blog"
   #   url: /blog
-   - title: "Music"
-     url: /music
-   - title: "CV"
-     url: /cv
+  # - title: "Instructions"
+#     url: /music
+#   - title: "Research"
+#     url: /cv

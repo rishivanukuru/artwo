@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "rishi" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Rishi Vanukuru"
+title                    : "ARTWO"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Rishi Vanukuru"
-description              : "Rishi's home on the web."
-url                      : "https://rishivanukuru.com"
-baseurl                  : #
-repository               : "vanukuru/minimal"
+name                     : "ARTWO - Dual Phone AR"
+description              : "ARTWO - Dual Phone AR Project Home"
+url                      : "https://rishivanukuru.com/artwo"
+baseurl                  : "/artwo"
+repository               : "vanukuru/artwo"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Rishi Vanukuru"
+masthead_title           : "ARTWO"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -101,7 +101,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-165937132-1
+    tracking_id          : # UA-165937132-1
     anonymize_ip         : # true, false (default)
 
 
@@ -144,12 +144,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       #url: "https://github.com/vanukuru"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rishivanukuru/"
-    - label: "Soundcloud"
-      icon: "fab fa-fw fa-soundcloud"
-      url: "https://soundcloud.com/rishivanukuru"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
