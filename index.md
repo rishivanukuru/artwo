@@ -5,10 +5,25 @@ home: "true"
 author_profile: false
 ---
 
-# Hello there
+# ARTWO: Dual Phone Augmented Reality
 
-My name is Rishi, and I'm a second year Master's student in Interaction Design at the IDC School of Design, IIT Bombay.
+What if we could use a second phone as a controller for mobile AR experiences?
 
-My research interests are in the areas of Accessibility and HCI [[1]](/projects/nonvisualinterfaces), and designing for Augmented and Virtual Reality experiences [[2]](/projects/creativityvr) [[3]](/projects/musicvr). You can read more about my work in the [Projects section](/projects/).
 
-Before joining the IDC, I was an undergraduate student at IIT Bombay (2014 - 2018), where I majored in Civil Engineering with a minor degree in Design.
+<iframe class = "video" src="https://www.youtube.com/embed/tGxPzaMrzkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+**ARTWO does just that. Get it for Android today.**
+
+# [Download ARTWO]({{ site.baseurl }}/download)
+
+---
+
+_If you have tried ARTWO out, thanks a lot!_
+
+_I'd love to hear what you think about the idea of Dual Phone AR, this app, and anything else you'd want to discuss (photos of what you make with the app would be great too!)._
+
+_In case you are facing issues with the app, I'd be glad to help._
+
+_Feel free to reach out via mail at [rishivanukuru@gmail.com](mailto:rishi.vanukuru@gmail.com), or fill up this short feedback form - [Feedback + Contact](https://forms.gle/6M46oE522SQt2Eef9)._
