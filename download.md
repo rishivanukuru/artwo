@@ -13,7 +13,7 @@ author_profile: false
 
 [ARTWO Direct Download link]({{site.baseurl}}\media\artwo\ARTWO_Final.apk)
 
-[ARTWO Google Drive link](https://drive.google.com/file/d/1Puoc5DIUrwTxgkLkMcQEYtzyi-aTEUtL/view?usp=sharing)
+[ARTWO Google Drive link](https://drive.google.com/file/d/1789na34jkgF7cIYwpa-Yq6hIpI0izeJE/view?usp=sharing)
 
 > We are working on releasing ARTWO on the Google Play Store. Until then, you will have to allow 3rd party app installation on your phone.
 
