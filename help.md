@@ -7,7 +7,16 @@ author_profile: false
 
 # ARTWO: Help
 
-> Instruction Videos will be added soon.
+# Overview Videos
+
+[Getting Started](https://youtu.be/_qvUBVG8dV0)
+
+[AR Chessboard ++](https://youtu.be/-mpCb5o2tlY)
+
+[Drawing in 3D](https://youtu.be/CHL9fPiePPM)
+
+[Space InvadARs](https://youtu.be/E8NBma1RDC4)
+
 
 # Connecting the Phones
 
