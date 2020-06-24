@@ -9,14 +9,25 @@ author_profile: false
 
 # Overview Videos
 
+You can watch full video overviews of the tutorial and 3 demos below:
+
 [Getting Started](https://youtu.be/_qvUBVG8dV0)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_qvUBVG8dV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [AR Chessboard ++](https://youtu.be/-mpCb5o2tlY)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-mpCb5o2tlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Drawing in 3D](https://youtu.be/CHL9fPiePPM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CHL9fPiePPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Space InvadARs](https://youtu.be/E8NBma1RDC4)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E8NBma1RDC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 # Connecting the Phones
 
