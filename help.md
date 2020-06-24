@@ -51,7 +51,11 @@ On the AR Phone, you can pick one of the four possible demos and tutorial. Read 
 
 Once you start the AR Scene, you will be guided through a few steps to set things up. Keep the Controller Phone aside, and complete these steps.
 
-![AR Setup]({{site.baseurl}}\media\artwo\arsetup.png)
+<div style = "width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
+<img src = "{{site.baseurl}}\media\artwo\arsetup.png">
+
+</div>
 
 The Controller Phone should automatically move on to the corresponding Start screen. You will be instructed to start the Controller Phone at the appropriate point.
 
@@ -60,7 +64,12 @@ The Controller Phone should automatically move on to the corresponding Start scr
 
 During the AR Phone setup, you will be instructed to start the Controller Phone.
 
-![Controller Start]({{site.baseurl}}\media\artwo\ControllerModeScreen.png)
+
+<div style = "width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
+<img src = "{{site.baseurl}}\media\artwo\ControllerModeScreen.png">
+
+</div>
 
 You can then pick it up and press start. To make things easier, use the Controller phone in your dominant hand.
 
@@ -74,7 +83,12 @@ Be sure to hold the Controller Phone such that it is near the AR Phone's camera 
 
 This may be hard to begin with, but it should get easier after a few tries.
 
-![Using Two Phones]({{site.baseurl}}\media\artwo\inview2.png)
+<div style = "width: 80%; display: block; margin-left: auto; margin-right: auto;">
+
+<img src = "{{site.baseurl}}\media\artwo\inview2.png">
+
+</div>
+
 
 ## Connection Issues
 
@@ -84,14 +98,24 @@ However, at times, the Controller phone may stop responding, or send information
 
 If this happens, please restart the application, and try using a different, more stable internet connection.
 
-![Connection Issues]({{site.baseurl}}\media\artwo\connection.png)
+<div style = "width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
+<img src = "{{site.baseurl}}\media\artwo\connection.png">
+
+</div>
+
 
 
 ## Detecting Surfaces
 
 AR Plane Detection is not a perfect technology yet. You may experience sudden shifts in object position, or find that planes slowly drift away from their positions.
 
-![Plane Detection]({{site.baseurl}}\media\artwo\planedetection.png)
+<div style = "width: 80%; display: block; margin-left: auto; margin-right: auto;">
+
+<img src = "{{site.baseurl}}\media\artwo\planedetection.png">
+
+</div>
+
 
 However, you can improve the accuracy and speed of tracking your surroundings if the surfaces are non-reflective, and have distinct, non repeating patterns (such as mats, carpets, or tablecloths).
 
@@ -99,12 +123,22 @@ However, you can improve the accuracy and speed of tracking your surroundings if
 
 AR Image Marker Detection is also still not a perfect technology. To ensure best results, ensure that the brightness of the Controller Phone is high enough that the AR phone focuses on it, but not so bright that it causes a glare.
 
-![Brightness]({{site.baseurl}}\media\artwo\brightness.png)
+<div style = "width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
+<img src = "{{site.baseurl}}\media\artwo\brightness.png">
+
+</div>
+
 
 
 The Controller Phone will be best detected when the Image Marker is clearly visible, and greater than a certain size. Move the controller around to get a sense of what the optimum range is. When moving around, make sure that you move your AR Phone as well to maintain this range.
 
-![Controller Range]({{site.baseurl}}\media\artwo\controllerrange.png)
+<div style = "width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
+<img src = "{{site.baseurl}}\media\artwo\controllerrange.png">
+
+</div>
+
 
 
 ## Play Area
@@ -113,7 +147,12 @@ Make sure you have enough room to move around. An ideal play space would allow y
 
 When choosing tables or raised surfaces, pick those where you can move all around. 
 
-![Play Area]({{site.baseurl}}\media\artwo\playarea.png)
+<div style = "width: 80%; display: block; margin-left: auto; margin-right: auto;">
+
+<img src = "{{site.baseurl}}\media\artwo\playarea.png">
+
+</div>
+
 
 
 > More resources will be added soon.  
