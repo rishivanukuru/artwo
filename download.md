@@ -21,7 +21,7 @@ ARTWO is now available on Google Play.
 
 <!-- [ARTWO on Google Play](https://play.google.com/store/apps/details?id=com.rishivanukuru.artwo) -->
 
-[ARTWO Direct Download link]({{site.baseurl}}\media\artwo\ARTWO_23July.apk)
+[ARTWO Direct Download link]({{site.baseurl}}\media\artwo\ARTWO_23_July.apk)
 
 [ARTWO Google Drive link](https://drive.google.com/file/d/1bBPpoMARL-Ux0KBF1Ny62KvzEcZWdGPZ/view?usp=sharing)
 
