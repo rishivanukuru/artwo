@@ -11,15 +11,17 @@ What if we could use a second phone as a controller for mobile AR experiences?
 
 
 <iframe class = "video" src="https://www.youtube.com/embed/tGxPzaMrzkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 **ARTWO does just that. Get it for Android today.**
 
 # [Download ARTWO]({{ site.baseurl }}/download)
 
+<!-- 
+
 <div style = "width: 300px; margin-left:-20px; padding-left:0px;"><a href='https://play.google.com/store/apps/details?id=com.rishivanukuru.artwo&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="200" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></div>
 
+-->
 
 
 
